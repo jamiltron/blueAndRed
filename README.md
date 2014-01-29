@@ -6,7 +6,7 @@ A 2d "shump" or "bullet-hell" game inspired by [Ikaruga](http://en.wikipedia.org
 
 INSTRUCTIONS
 ------------
-This requires an install of [Love2d](https://love2d.org/) and should be able to be ran by calling the love command on the checked-out directory. This also includes [Enrique García](https://github.com/kikito)'s excellent [middleclass](https://github.com/kikito/middleclass) library, the license of which is included as a header in the lib/middleclass.lua file.
+This requires an install of [Love2d](https://love2d.org/) and should be able to be ran by calling the love command on the checked-out directory.
 
 
 TODO
